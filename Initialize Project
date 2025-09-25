@@ -1,1 +1,3 @@
-
+mkdir books-api
+cd books-api
+npm init -y
